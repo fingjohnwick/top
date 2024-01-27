@@ -1,0 +1,12 @@
+h1{
+    text-align:center;
+}
+h2{
+    text-align: left;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+p{
+    text-align:justify;
+    text-transform:capitalize;
+}
